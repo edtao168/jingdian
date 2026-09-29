@@ -5,7 +5,7 @@
 >> cd C:\laragon\www\jingdian  
 >> mkdocs gh-deploy  
 >> git add .  
->> git commit -m "新增文章：先進顏淵"  
+>> git commit -m "新增文章：憲問"  
 >> git push  
 > 若打算在本地測試  
 >>（啟動本地服務器）mkdocs serve  
