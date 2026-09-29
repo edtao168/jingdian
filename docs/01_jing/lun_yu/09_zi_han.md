@@ -1,10 +1,10 @@
 ---
-title: 論語子罕
+title: 論語・子罕
 description: 
 
 ---
 
-# 論語  子罕
+# 子罕
 
 ---
 <style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>

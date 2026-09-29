@@ -1,8 +1,11 @@
 ---
-title: 論語雍也
+title: 論語・雍也
 description: 
+
 ---
-# 論語  雍也
+
+# 雍也
+
 ---
 <style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>
 >子曰：「雍也可使南面。」  

@@ -17,6 +17,8 @@ nav:
           - 簡介: 01_jing/shi_jing/index.md
       - 《尚書》:
           - 簡介: 01_jing/shang_shu/index.md
+          - 虞書:
+              -大禹謨: 01_jing/shang_shu/01_yu_shu/03_da_yu_mo.md
       - 《周易》:
           - 簡介: 01_jing/zhou_yi/index.md
       - 《禮記》:

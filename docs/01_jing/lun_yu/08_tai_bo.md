@@ -1,10 +1,10 @@
 ---
-title: 論語泰伯
+title: 論語・泰伯
 description: 
 
 ---
 
-# 論語  泰伯
+# 泰伯
 
 ---
 <style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>

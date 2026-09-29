@@ -1,8 +1,8 @@
 ---
-title: 論語學而
+title: 論語・學而
 description: 
 ---
-# 論語  學而
+# 學而
 ---
 <style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>
 > 子曰：「學而時習之，不亦說乎？有朋自遠方來，不亦樂乎？人不知而不慍，不亦君子乎？」

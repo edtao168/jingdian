@@ -1,10 +1,10 @@
 ---
-title: 論語八佾
+title: 論語・八佾
 description: 
 
 ---
 
-# 論語  八佾
+# 八佾
 
 ---
 <style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>

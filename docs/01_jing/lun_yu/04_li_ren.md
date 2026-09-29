@@ -1,9 +1,13 @@
-<style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>
-
-# 論語  里仁
+---
+title: 論語・里仁
+description: 
 
 ---
 
+# 里仁
+
+---
+<style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>
 >子曰：「里仁為美。擇不處仁，焉得知？」
 
 孔子說：「居住在有仁德風氣的地方是最好的。假使不選擇仁厚的鄰里而隨意居住，怎能算是有智慧的人！」

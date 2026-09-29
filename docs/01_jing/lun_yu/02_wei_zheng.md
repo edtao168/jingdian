@@ -1,8 +1,8 @@
 ---
-title: 論語為政
+title: 論語・為政
 description: 
 ---
-# 論語  為政
+# 為政
 ---
 <style>pre {white-space: pre-wrap !important; word-break: break-all;}</style>
 > 子曰：「為政以德，譬如北辰，居其所而眾星共之。」
