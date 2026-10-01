@@ -8,17 +8,20 @@ theme:
     primary: indigo
   features:
     - navigation.tabs        # 頂部顯示「經部 | 史部 | 子部 | 集部」
-    - navigation.indexes     # 允許點擊「論語」直接打開 index.md
+    #- navigation.indexes     # 允許點擊「論語」直接打開 index.md
 
 nav:
   - 總序: index.md
   - 經部:
       - 《詩經》:
           - 簡介: 01_jing/shi_jing/index.md
+          - 國風:
+              - 周南:
+                  - 關雎: 01_jing/shi_jing/01_guo_feng/01_zhou_nan/01_guan_ju.md
       - 《尚書》:
           - 簡介: 01_jing/shang_shu/index.md
           - 虞書:
-              -大禹謨: 01_jing/shang_shu/01_yu_shu/03_da_yu_mo.md
+              - 大禹謨: 01_jing/shang_shu/01_yu_shu/03_da_yu_mo.md
       - 《周易》:
           - 簡介: 01_jing/zhou_yi/index.md
       - 《禮記》:
@@ -43,7 +46,7 @@ nav:
           - 憲問: 01_jing/lun_yu/14_xian_wen.md
           - 衛靈公: 01_jing/lun_yu/15_wei_ling_gong.md
           - 季氏: 01_jing/lun_yu/16_ji_shi.md
-          - 顏回: 01_jing/lun_yu/17_yang_huo.md
+          - 陽貨: 01_jing/lun_yu/17_yang_huo.md
           - 微子: 01_jing/lun_yu/18_wei_zi.md
           - 子張: 01_jing/lun_yu/19_zi_zhang.md
           - 堯曰: 01_jing/lun_yu/20_yao_yue.md
