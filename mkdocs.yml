@@ -7,59 +7,11 @@ theme:
   palette:
     primary: indigo
   features:
-    - navigation.tabs        # 頂部顯示「經部 | 史部 | 子部 | 集部」
-    #- navigation.indexes     # 允許點擊「論語」直接打開 index.md
+    #- navigation.tabs
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
 
-nav:
-  - 總序: index.md
-  - 經部:
-      - 《詩經》:
-          - 簡介: 01_jing/shi_jing/index.md
-          - 國風:
-              - 周南:
-                  - 關雎: 01_jing/shi_jing/01_guo_feng/01_zhou_nan/01_guan_ju.md
-      - 《尚書》:
-          - 簡介: 01_jing/shang_shu/index.md
-          - 虞書:
-              - 大禹謨: 01_jing/shang_shu/01_yu_shu/03_da_yu_mo.md
-      - 《周易》:
-          - 簡介: 01_jing/zhou_yi/index.md
-      - 《禮記》:
-          - 簡介: 01_jing/li_ji/index.md
-      - 《左傳》:
-          - 簡介: 01_jing/zuo_zhuan/index.md
-      - 《論語》:
-          - 論語: 01_jing/lun_yu/index.md
-          - 學而: 01_jing/lun_yu/01_xue_er.md
-          - 為政: 01_jing/lun_yu/02_wei_zheng.md
-          - 八佾: 01_jing/lun_yu/03_ba_yi.md
-          - 里仁: 01_jing/lun_yu/04_li_ren.md
-          - 公冶長: 01_jing/lun_yu/05_gong_ya_zhang.md
-          - 雍也: 01_jing/lun_yu/06_yong_ye.md
-          - 述而: 01_jing/lun_yu/07_shu_er.md
-          - 泰伯: 01_jing/lun_yu/08_tai_bo.md
-          - 子罕: 01_jing/lun_yu/09_zi_han.md
-          - 鄉黨: 01_jing/lun_yu/10_xiang_dang.md
-          - 先進: 01_jing/lun_yu/11_xian_jin.md
-          - 顏淵: 01_jing/lun_yu/12_yan_yuan.md
-          - 子路: 01_jing/lun_yu/13_zi_lu.md
-          - 憲問: 01_jing/lun_yu/14_xian_wen.md
-          - 衛靈公: 01_jing/lun_yu/15_wei_ling_gong.md
-          - 季氏: 01_jing/lun_yu/16_ji_shi.md
-          - 陽貨: 01_jing/lun_yu/17_yang_huo.md
-          - 微子: 01_jing/lun_yu/18_wei_zi.md
-          - 子張: 01_jing/lun_yu/19_zi_zhang.md
-          - 堯曰: 01_jing/lun_yu/20_yao_yue.md
-      
-      - 《孟子》: 01_jing/meng_zi/index.md
-  - 史部:
-      - 《史記》: 02_shi/shi_ji/index.md
-  - 子部:
-      - 老子: 03_zi/lao_zi/index.md
-      - 莊子: 03_zi/zhuang_zi/index.md
-      - 孫子兵法: 03_zi/sun_zi_bing_fa/index.md
-  - 集部:
-      - 楚辭:
-          - 解題與總目: 04_ji/chu_ci/index.md
-          - 離騷: 04_ji/chu_ci/01_li_sao.md
-          - 九歌·山鬼: 04_ji/chu_ci/02_jiu_ge/shan_gui.md
+plugins:
+  - search
+  - awesome-pages
