@@ -1,11 +1,11 @@
 nav:
   - index.md
-  - 鹿鳴: lu_ming
-  - 四牡: si_mu
-  - 皇皇者華: huang_huang_zhe_hua
-  - 常棣: chang_di
-  - 伐木: fa_mu
-  - 天保: tian_bao
-  - 采薇: cai_wei
-  - 出車: chu_che
-  - 杕杜: di_du
+  - 鹿鳴: lu_ming.md
+  - 四牡: si_mu.md
+  - 皇皇者華: huang_huang_zhe_hua.md
+  - 常棣: chang_di.md
+  - 伐木: fa_mu.md
+  - 天保: tian_bao.md
+  - 采薇: cai_wei.md
+  - 出車: chu_che.md
+  - 杕杜: di_du.md
