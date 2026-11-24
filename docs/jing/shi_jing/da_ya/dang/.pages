@@ -1,14 +1,14 @@
 nav:
   - index.md
-  - 蕩: dang
-  - 抑: yi
-  - 桑柔: sang_rou
-  - 棫樸: yu_pu
-  - 雲漢: yun_han
-  - 崧高: song_gao
-  - 烝民: zheng_min
-  - 韓奕: han_yi
-  - 江漢: jiang_han
-  - 常武: chang_wu
-  - 瞻卬: zhan_yang
-  - 召旻: zhao_min
+  - 蕩: dang.md
+  - 抑: yi.md
+  - 桑柔: sang_rou.md
+  - 棫樸: yu_pu.md
+  - 雲漢: yun_han.md
+  - 崧高: song_gao.md
+  - 烝民: zheng_min.md
+  - 韓奕: han_yi.md
+  - 江漢: jiang_han.md
+  - 常武: chang_wu.md
+  - 瞻卬: zhan_yang.md
+  - 召旻: zhao_min.md

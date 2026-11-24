@@ -1,12 +1,12 @@
 nav:
   - index.md
-  - 都人士: du_ren_shi
-  - 采綠: cai_lu
-  - 黍苗: shu_miao
-  - 隰桑: xi_sang
-  - 白華: bai_hua
-  - 綿蠻: mian_man
-  - 瓠葉: hu_ye
-  - 漸漸之石: jian_jian_zhi_shi
-  - 苕之華: tiao_zhi_hua
-  - 何草不黃: he_cao_bu_huang
+  - 都人士: du_ren_shi.md
+  - 采綠: cai_lu.md
+  - 黍苗: shu_miao.md
+  - 隰桑: xi_sang.md
+  - 白華: bai_hua.md
+  - 綿蠻: mian_man.md
+  - 瓠葉: hu_ye.md
+  - 漸漸之石: jian_jian_zhi_shi.md
+  - 苕之華: tiao_zhi_hua.md
+  - 何草不黃: he_cao_bu_huang.md
