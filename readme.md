@@ -5,11 +5,7 @@
 >> cd C:\laragon\www\jingdian  
 >> mkdocs gh-deploy  
 >> git add .  
->> git commit -m "新增文章：詩經小雅祈父
-  - 小旻: xiao_min
-  - 北山: bei_shan
-  - 桑扈: sang_hu
-  - 都人士"  
+>> git commit -m "新增文章：詩經大雅"  
 >> git push  
 > 若打算在本地測試  
 >>（啟動本地服務器）mkdocs serve  
